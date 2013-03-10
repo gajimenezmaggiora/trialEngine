@@ -4,3 +4,9 @@
 *.DS_Store
 *.swp
 *.out
+
+## specific files to ignore
+*.settings
+.proverc
+
+nytprof*
